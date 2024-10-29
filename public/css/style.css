@@ -1,0 +1,18 @@
+body {
+    background-color: #bc0898;
+  }
+  
+  .card {
+    border-color: #6f42c1;
+  }
+  
+  #validateButton {
+    background-color: #6f42c1;
+    border-color: #6f42c1;
+  }
+  
+  #validateButton:hover {
+    background-color: #5a379e;
+    border-color: #5a379e;
+  }
+  
